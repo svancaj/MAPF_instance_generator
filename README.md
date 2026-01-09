@@ -1,1 +1,1 @@
-# mapf-corridors-instance-generator
+# mapf-instance-generator
