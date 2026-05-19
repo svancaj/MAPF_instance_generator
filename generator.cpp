@@ -72,7 +72,7 @@ int create(int number_of_instances, string map_type, int locations_type)
 
 	int agents = 400;
 
-	if (height == 20 || height == 22) // warehouse 20x20 is acctualy 18x22
+	if (height == 20)
 		agents = 200;
 	if (height == 10)
 		agents = 50;
